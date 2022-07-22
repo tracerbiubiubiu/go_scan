@@ -1,2 +1,5 @@
 # go_scan
-A golang tools for statistic check
+
+For gofence is terrible  and i want to create something cool my own
+
+A golang tool for statistic check
